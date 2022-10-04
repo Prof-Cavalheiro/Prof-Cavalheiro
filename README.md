@@ -1,0 +1,5 @@
+-- 👋 Hi, I'm @Prof-Cavalheiro
+- 👀 I'm interested in helping my students with my shares
+- 🌱 I am currently learning HTML5 and CSS3
+- 💞️ I'm looking to collaborate in public education
+- 📫 To talk to me: samuel.cavalheiro.lima@escola.pr.gov.br
